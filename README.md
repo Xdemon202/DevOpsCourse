@@ -1,2 +1,2 @@
 # DevOpsCourse
-#this rep for course devops from AndersenLab
+this is rep for course devops from AndersenLab 
