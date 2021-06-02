@@ -7,7 +7,7 @@ My name is Dmitry Khadzhiev. I am 32 years old. In the IT industry I am over 13 
 * I hope this course will give me enough background information to start my new part of career
 
 
-###   What I expect from that course
+###   What I expect from that course ?
 * Get a lot of knowledge from qualified specialist
 * Meet new interesting friends
 * change my current job and become a DevOps engineer or maybe DevSecOps,  who knows)
