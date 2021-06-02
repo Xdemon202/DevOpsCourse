@@ -1,0 +1,2 @@
+* 31/05/2021 Today I've start my new corse of DevOps by Anderson
+* 01/06/2021 Today i started to practice with git
