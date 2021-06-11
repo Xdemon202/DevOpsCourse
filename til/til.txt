@@ -7,4 +7,8 @@
 * 06/06/2021 Virtual box is shit, VMware cool
 * 07/06/2021 Today I've known a lot new information about CMT
 * 08/06/2021 Today I put on braces and started to deal with this damn git, it's hard to be just it
-* 09/06/2021 
+* 09/06/2021 Today I spent time at learning Python
+* 10/06/2021 Today was new DevOps class
+* 11/06/2021 Go lang it is some thing new for me
+* 12/06/2021 Finaly Friday
+
