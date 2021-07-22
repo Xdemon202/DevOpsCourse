@@ -18,3 +18,5 @@
 * 17/06/2021 English lesson (IELTS prepare)
 * 18/06/2021 Contine with Bash. (+ some tips Linux. WSL not bad)
 * 19/06/2021-20/06/2021 Moscow jurney (rest)
+
+* 
